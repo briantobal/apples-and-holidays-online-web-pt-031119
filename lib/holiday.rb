@@ -63,6 +63,12 @@ def all_supplies_in_holidays(holiday_hash)
   #   Fourth Of July: Fireworks, BBQ
   # etc.
 
+#----------------------
+  # Iterate over Hol-hash 
+  # Grab the seasons, and capitalize the strings and assign to a variable 
+  # Iterate over the values again and get into the second levels to get the keys of the holidays and values of the supply list 
+  # Once inside the above, create another string, so we can capitalizet eh holidays and break each element from the array and add it to the above string 
+  # return those strings out 
   
 
 end
